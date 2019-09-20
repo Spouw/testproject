@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="cursussen" type="PHP" />
       <mapping pattern="servertest" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="_videos" type="Sass" />
     </extensionMap>
